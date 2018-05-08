@@ -3,6 +3,6 @@ This Repo representing some basic code for Machine Learning and Deep Learning. B
 
 ## Simple classification example for two class toy data 
 
-<img width="986" alt="fnn_example1" src="https://user-images.githubusercontent.com/36088488/39732553-bbed35de-5233-11e8-8ba7-71acb3a2dda1.png">
+<img width="823" alt="fnn_example1" src="https://user-images.githubusercontent.com/36088488/39732700-82ad8d04-5234-11e8-8e0c-a50de7a0079a.png">
 
 <img width="986" alt="fnn_example2" src="https://user-images.githubusercontent.com/36088488/39732611-06e382dc-5234-11e8-95b6-04e061f40857.png">
